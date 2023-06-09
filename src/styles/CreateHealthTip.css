@@ -1,0 +1,76 @@
+.form {
+    background: linear-gradient(90deg, #ff594c 0%, #fac527 100%);
+    min-height: 18rem;
+    border-radius: 1rem;
+}
+
+
+.mainTitle {
+    background: linear-gradient(270deg, #984343 0%, #43ceb2 100%);
+    width: 800px;
+    height: 43px;
+    border-radius: 10px;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.mainContainer {
+    position: absolute;
+    left: 15rem;
+    top: 2rem;
+}
+
+.heading {
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 1rem;
+}
+
+.btn {
+    width: 40%;
+    padding: 10px;
+    background: linear-gradient(270deg, #984343 0%, #43ceb2 100%);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+
+.message {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}

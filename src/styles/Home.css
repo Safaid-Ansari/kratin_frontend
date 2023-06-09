@@ -1,0 +1,10 @@
+.Heading {
+    background: linear-gradient(270deg, #984343 0%, #43ceb2 100%);
+    width: 900px;
+    margin-left: 200px;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    font-family: 'Tilt Prism', cursive;
+
+}

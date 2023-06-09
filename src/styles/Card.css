@@ -1,0 +1,32 @@
+.container {
+    display: inline-grid;
+    width: 30rem;
+    min-height: 15rem;
+    /* background: linear-gradient(270deg, #800080 0%, #FF864C 100%); */
+    background: linear-gradient(90deg, #ff594c 0%, #fac527 100%);
+    /* background: linear-gradient(270deg, #984343 0%, #43ceb2 100%); */
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.cardBtn {
+    background: linear-gradient(270deg, #984343 0%, #43ceb2 100%);
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.main>h1 {
+    background-color: #b5c7d1;
+    margin: 0;
+    border-radius: 18px 18px 0px 0px;
+    height: 46px;
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.main h3 {
+    margin-left: 8px;
+}
